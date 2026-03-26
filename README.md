@@ -49,6 +49,7 @@ Currently progressing through:
 
 * GitHub: https://github.com/NyxByteron
 * TryHackMe: https://tryhackme.com/p/NyxByteron
+* HackTheBox: https://profile.hackthebox.com/profile/019d2acc-47f0-70ea-9fb4-b73a0f24a646
 
 ---
 
